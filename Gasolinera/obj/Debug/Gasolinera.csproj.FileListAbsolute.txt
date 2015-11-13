@@ -1,0 +1,25 @@
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\bin\Debug\Gasolinera.exe
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\bin\Debug\Gasolinera.pdb
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csprojResolveAssemblyReference.cache
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.Login.resources
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.Properties.Resources.resources
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.csproj.GenerateResource.Cache
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.exe
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.pdb
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.Principal.resources
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.Usuarios.resources
+C:\Users\adiaz\Documents\Visual Studio 2012\Projects\Gasolinera\Gasolinera\obj\Debug\Gasolinera.Busqueda.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.exe
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.pdb
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.Busqueda.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.Empleados.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.Login.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.Principal.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.Properties.Resources.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.Usuarios.resources
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.csproj.GenerateResource.Cache
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\bin\Debug\Gasolinera.exe
+C:\Users\Hp\Documents\Visual Studio 2012\Projects\Gasolinera 2\Gasolinera\bin\Debug\Gasolinera.pdb
+C:\Users\ever\Documents\Visual Studio 2012\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.exe
+C:\Users\ever\Documents\Visual Studio 2012\Gasolinera 2\Gasolinera\obj\Debug\Gasolinera.pdb
